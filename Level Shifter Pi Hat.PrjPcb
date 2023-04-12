@@ -102,7 +102,119 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Level Shifter Pi Hat\Design Rule Check - Main.html
+DocumentPath=Project Outputs for Level Shifter Pi Hat\BOM\Bill of Materials-Level Shifter Pi Hat.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\NC Drill\Main.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.GM
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.GM19
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.GM20
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.GM21
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.GM23
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.GM24
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\NC Drill\Main.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.REP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\Gerber\Main.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Level Shifter Pi Hat\NC Drill\Main.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -1080,10 +1192,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name Only
+ComponentLibraryIdentifier0=University of Colorado Boulder
+ComponentDesignItemID0=CMP-002-00074-2
+ComponentSymbolReference0=6482dbbbb6b2fedbaeeaff9514cbf0f
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1097,6 +1215,89 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Case/Package
+ParameterUpdate0=1
+ParameterName1=Color
+ParameterUpdate1=1
+ParameterName2=Comment
+ParameterUpdate2=1
+ParameterName3=Component Kind
+ParameterUpdate3=1
+ParameterName4=Connector Type
+ParameterUpdate4=1
+ParameterName5=Contact Current Rating
+ParameterUpdate5=1
+ParameterName6=Contact Finish - Mating
+ParameterUpdate6=1
+ParameterName7=Contact Material
+ParameterUpdate7=1
+ParameterName8=Contact Plating
+ParameterUpdate8=1
+ParameterName9=Contact Post Length
+ParameterUpdate9=1
+ParameterName10=Contact Resistance
+ParameterUpdate10=1
+ParameterName11=Current Rating
+ParameterUpdate11=1
+ParameterName12=Depth
+ParameterUpdate12=1
+ParameterName13=Description
+ParameterUpdate13=1
+ParameterName14=ELV
+ParameterUpdate14=1
+ParameterName15=Flammability Rating
+ParameterUpdate15=1
+ParameterName16=Housing Material
+ParameterUpdate16=1
+ParameterName17=Insulation Resistance
+ParameterUpdate17=1
+ParameterName18=Lead Pitch
+ParameterUpdate18=1
+ParameterName19=Length
+ParameterUpdate19=1
+ParameterName20=Library Reference
+ParameterUpdate20=1
+ParameterName21=Mating Alignment
+ParameterUpdate21=1
+ParameterName22=Max Operating Temperature
+ParameterUpdate22=1
+ParameterName23=Min Operating Temperature
+ParameterUpdate23=1
+ParameterName24=Mounting Technology
+ParameterUpdate24=1
+ParameterName25=Number of Contacts
+ParameterUpdate25=1
+ParameterName26=Number of Positions
+ParameterUpdate26=1
+ParameterName27=Number of Rows
+ParameterUpdate27=1
+ParameterName28=Orientation
+ParameterUpdate28=1
+ParameterName29=Package Quantity
+ParameterUpdate29=1
+ParameterName30=Packaging
+ParameterUpdate30=1
+ParameterName31=Pitch
+ParameterUpdate31=1
+ParameterName32=Reach SVHC Compliant
+ParameterUpdate32=1
+ParameterName33=RoHS Compliant
+ParameterUpdate33=1
+ParameterName34=Row Spacing
+ParameterUpdate34=1
+ParameterName35=Series
+ParameterUpdate35=1
+ParameterName36=Termination
+ParameterUpdate36=1
+ParameterName37=Voltage Rating
+ParameterUpdate37=1
+ParameterName38=Width
+ParameterUpdate38=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=FP-1-2199298-3-MFG
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
