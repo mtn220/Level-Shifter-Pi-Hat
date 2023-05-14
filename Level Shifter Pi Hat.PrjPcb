@@ -238,16 +238,16 @@ DocumentPath=Project Outputs for Level Shifter Pi Hat\Report Board Stack\Main.xl
 DItemRevisionGUID=
 
 [Parameter1]
-Name=DrawnBy
-Value=Dave Berlin
-
-[Parameter2]
 Name=Title
 Value=Level Shifter PI Hat
 
-[Parameter3]
+[Parameter2]
 Name=Revision
-Value=1.0
+Value=2.0
+
+[Parameter3]
+Name=DrawnBy
+Value=Dave Berlin
 
 [Configuration1]
 Name=Sources
@@ -484,6 +484,12 @@ OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType14=PCBDrawing
+OutputName14=Draftsman
+OutputDocumentPath14=
+OutputVariantName14=[No Variations]
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
